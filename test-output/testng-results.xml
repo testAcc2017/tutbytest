@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22931" started-at="2017-11-04T13:48:07Z" finished-at="2017-11-04T13:48:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22931" started-at="2017-11-04T13:48:07Z" finished-at="2017-11-04T13:48:29Z">
+      <class name="by.htp.tutbylettercounter.test">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:by.htp.tutbylettercounter.test@5b275dab]" name="initBrowser" is-config="true" duration-ms="3799" started-at="2017-11-04T15:48:07Z" finished-at="2017-11-04T15:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="incomeLetterCounter()[pri:0, instance:by.htp.tutbylettercounter.test@5b275dab]" name="incomeLetterCounter" duration-ms="19118" started-at="2017-11-04T15:48:10Z" finished-at="2017-11-04T15:48:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incomeLetterCounter -->
+      </class> <!-- by.htp.tutbylettercounter.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
